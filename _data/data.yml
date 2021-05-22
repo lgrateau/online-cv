@@ -46,12 +46,12 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: Profil
     summary: |
       Après différentes expériences significatives en tant que développeur Java/J2EE, Manageur et Chef de Projet, 
       je valorise actuellement mon expertise technique dans le developpement et l'architecture de solutions Cloud IBM au 
       sein de la R&D IBM France Lab.
-education:
+formation:
     - degree: MSc in Computer Science
       university: University of London
       time: 2011 - 2012
