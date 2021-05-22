@@ -55,7 +55,7 @@ education:
     - degree: Ingénieur Informatique
       university: EPITA
       time: 1994
-      details: |
+      details: 
    
 experiences:
     - role: Lead Developer
