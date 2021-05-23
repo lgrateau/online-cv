@@ -86,8 +86,8 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: OpenSource et contributions
-    intro: >
+    title: OpenSource et contributions publiques
+    intro: En charge de la communauté OpenSource du produit ODM voici quelques unes de mes contributions OpenSource.
        
     assignments:
       - title: ODM on Docker github
@@ -98,17 +98,13 @@ projects:
         link: "https://github.com/ODMDev/decision-microservice"
         tagline: "Projeet de recherche pour de la generation automatique de microservice."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Decisions on Spark github
+        link: "https://github.com/ODMDev/decisions-on-spark"
+        tagline: "Integration d'un moteur de Regles métiers dans une architecture Big Data Spark"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#github"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: ODM on Kubernetes
+        link: "https://github.com/ODMDev/odm-docker-kubernetes"
+        tagline: "Integration du produit ODM dans les differentes offres Kubernetes du marché. Amazon EKS / Azur AKS / OpenSource "
 
 publications:
     title: Publications
