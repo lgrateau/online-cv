@@ -110,24 +110,22 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      De part mon expertize technique sur differentes technologies, j'ai été invité a participer a de multiples conferences 
+      chez des clients IBM ainsi qu'a des conférences publiques. Un brevet mondial lié aux WebService est listé.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Brevet - Managing rule sets as web services"
+        link: "http://www.patentbuddy.com/Patent/20130138704;jsessionid=7FE8AAB25D2F025F6CFE098F68047C03#sthash.RGhpL0Ke.dpuf"
+        authors: Grateau 
+        conference: 
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Comment tirer profit des promesses du multicloud ? "
+        link: https://www.lesechos-events.fr/event/informatique-telecom-reseaux/comment-tirer-profit-des-promesses-du-multicloud/#fndtn-intervenants
+        conference: "Lesechos.fr"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Expliquez vos decisions algorithmiques dans le respect du GDPR (P. Feillet, L. Grateau)"
+        link: "https://www.youtube.com/watch?v=oiy88Rb1fH4"
+        authors: Laurent Grateau, Pierre Feillet
+        conference: "Devoxx FR 2018 "
 
 skills:
     title: Skills &amp; Proficiency
