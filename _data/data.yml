@@ -62,8 +62,9 @@ experiences:
         de développer et promouvoir la technologie docker / Kubernetes ainsi 
         que les technologies cloud pour le produit IBM Websphere Operational Decision Management.
           - Expertize Docker / Kubernetes
+          - Gestion technique d'une équipe de 10 Personnes 
           - Formation des équipes de deveoppement aux architectures microservices - Docker/K8S
-          - Migration d'offres vers une architecture microservice sur Docker / Kubernetes
+          - Architecture et migration d'offres vers une architecture microservice sur Docker / Kubernetes
           - Responsable de la communauté OpenSource du produit.
     - role: Architect / Senior Developer - Cloud Saas
       time: 2015 - 2017
