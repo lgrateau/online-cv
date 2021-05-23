@@ -25,17 +25,17 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: French
+      - idiom: Français
         level: Maternel
       - idiom: Anglais
         level: Avancé
 
     interests:
-      - item: Voyage
-        link:
-      - item: Drone
+      - item: Drones
         link:
       - item: Musique - Guitare
+        link:
+      - item: Voyages
         link:
 
 career-profile:
