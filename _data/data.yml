@@ -14,7 +14,6 @@ sidebar:
     # Sidebar links
     email: laurent.grateau@gmail.com
     phone: 06 42 41 23 xx
-    website: https://github.com/lgrateau/ #do not add http://
     linkedin: laurent-grateau-35028b1
     github: lgrateau
     telegram: # add your nickname without '@' sign
@@ -27,18 +26,16 @@ sidebar:
 
     languages:
       - idiom: French
-        level: Native
-      - idiom: English
-        level: Professional
+        level: Maternel
+      - idiom: Anglais
+        level: Avancé
 
     interests:
+      - item: Voyage
+        link:
       - item: Drone
         link:
-
-      - item: Music - Guitar
-        link:
-
-      - item: Cooking
+      - item: Musique - Guitare
         link:
 
 career-profile:
@@ -110,7 +107,7 @@ projects:
 publications:
     title: Publications
     intro: |
-      De part mon expertize technique sur differentes technologies, j'ai été invité a participer a de multiples conferences 
+      De part mon expertise technique sur differentes technologies, j'ai été invité à participer à de multiples conferences 
       chez des clients IBM ainsi qu'a des conférences publiques. Un brevet mondial lié aux WebService est listé.
     papers:
       - title: "Brevet - Managing rule sets as web services"
@@ -136,6 +133,9 @@ skills:
 
       - name: Kubernetes
         level: 98%
+
+      - name: Intelligence Artificielle
+        level: 90%
 
       - name: Java
         level: 85%
