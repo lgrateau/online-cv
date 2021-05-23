@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: laurent.grateau@gmail.com
-    phone: 06 42 41 23 34 
+    phone: 06 42 41 23 xx
     website: https://github.com/lgrateau/ #do not add http://
     linkedin: laurent-grateau-35028b1
     github: lgrateau
@@ -54,35 +54,29 @@ education:
       details: 
    
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Architect / Tech Lead docker / Kubernetes - Symbolic AI
+      time: 2017 - Present
+      company: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Au sein d'IBM France Lab, j'occupe les fonctions d'architecte senior / Tech Lead et developpeur en charge 
+        de développer et promouvoir la technologie docker / Kubernetes ainsi 
+        que les technologies cloud pour le produit IBM Websphere Operational Decision Management.
+          - Expertize Docker / Kubernetes
+          - Formation des équipes de deveoppement aux architectures microservices - Docker/K8S
+          - Migration d'offres vers une architecture microservice sur Docker / Kubernetes
+          - Responsable de la communauté OpenSource du produit.
+    - role: Architect / Senior Developer - Cloud Saas
+      time: 2015 - 2017
+      company: IBM, Paris FranceLab
+      details: |
+        Architecte fonctionel et developpment d'une solution Saas IBM ODM On cloud. Au sein de l'équipe R&D 
+        IBM Websphere Operational Decision Management, je suis en charge de l'architecture et du développement
+         du produit Cloud Saas ODM on cloud.
+          - Definition de l'architecture 
           - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
+    - role: Architect / Senior Developer - Cloud PaaS - IA Symbolique
       time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+      company: IBM, Paris FranceLab
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
