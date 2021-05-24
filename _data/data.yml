@@ -50,7 +50,7 @@ education:
       details: 
    
 experiences:
-    - role: Architect / Tech Lead docker / Kubernetes - Symbolic AI
+    - role: Architect / Tech Lead docker / Kubernetes - IA Symbolique
       time: 2017 - Present
       company: IBM, Paris FranceLab
       details: |
@@ -68,7 +68,7 @@ experiences:
           - Standard : OpenID
           - Outils: Helm Charts / Openshift Operator
 
-    - role: Architect / Senior Developer - BigData - Symbolic AI
+    - role: Architect / Senior Developer - BigData - IA Symbolique
       time: 2016 - 2017 (6 Mois)
       company: IBM, Paris FranceLab
       details: |
