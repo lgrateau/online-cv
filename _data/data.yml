@@ -86,11 +86,11 @@ experiences:
       time: 2015 - 2016
       company: IBM, Paris FranceLab
       details: |
-        Architecte fonctionel et developpment d'une solution Saas IBM ODM On cloud. Au sein de l'équipe R&D 
+        Architecte fonctionel et developpment d'une solution Saas IBM ODM On cloud et Pasas Business Rules for Bluemix. Au sein de l'équipe R&D 
         IBM Websphere Operational Decision Management, je suis en charge de l'architecture et du développement
         du produit Cloud Saas ODM on cloud.
           - Definition de l'architecture cloud. (DNS/Machine/Docker...)
-          - Ecriture d'un prototype.
+          - Ecriture de prototypes.
           - Coordination des developpements. (15 personnes - Equipe en Chine/USA/UK) 
           - Aide au developpement de la solution.
 
@@ -98,18 +98,11 @@ experiences:
           - Softayer : VM , DNS, Routeur
           - Docker / Swarm / Kubernetes
           - DB2
-          
-    - role: Architect / Senior Developer - Cloud PaaS - IA Symbolique
-      time: 2014 - 2015
-      company: IBM, Paris FranceLab
-      details: |
-        Archticte fonctionel et développement d'une solution PAAS sur la platforme CloudFoundry IBM. 
-        Compétences:
           - IBM Bluemix platforme : CloudFoundry
           - Java / J2EE 
           - MongoDB
           - HTML5 / Bootstrap 4.0 / JQuery / AngularJS
-          
+
     - role: Project Manager R&D / Architect J2EE - .Net - IA Symbolique
       time: 2010 - 2014
       company: IBM, Paris FranceLab
