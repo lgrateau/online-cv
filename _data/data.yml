@@ -71,13 +71,12 @@ experiences:
       time: 2016 - 2017 (6 Mois)
       company: IBM, Paris FranceLab
       details: |
-        Architecture et développement d'un solution permettant de faire fonctionner un moteur de regle dans une architecture BigData.
+        Architecture et développement d'un solution permettant de faire fonctionner un moteur de regle métier dans une architecture BigData.
           - Formation aux technologies BigData (2 mois)
           - Ecriture d'un prototype. Kafka / Spark / NoSQL (HDFS / Hive)
           - Developpement et mise en place de la solution chez des clients.
         Compétences:
-          - Spark Streaming - SQL 
-          - Kafka 
+          - Spark Streaming - SQL / Kafka / Java
           - Python 3 / Jupyter Notebook
           - Hive / HDFS 
     - role: Architect / Senior Developer - Cloud Saas - IA Symbolique
@@ -137,10 +136,16 @@ publications:
       De part mon expertise technique sur differentes technologies, j'ai été invité à participer à de multiples conferences 
       chez des clients IBM ainsi qu'a des conférences publiques. Un brevet mondial lié aux WebService est listé.
     papers:
+
       - title: "Brevet - Managing rule sets as web services"
         link: "http://www.patentbuddy.com/Patent/20130138704;jsessionid=7FE8AAB25D2F025F6CFE098F68047C03#sthash.RGhpL0Ke.dpuf"
         authors: Grateau 
         conference: 
+
+      - title: "Move to Cloud"
+        link: "https://twitter.com/hashtag/DevSummit?src=hashtag_click"
+        authors: Laurent Grateau
+        conference: Carrefour DevSummit
 
       - title: "Comment tirer profit des promesses du multicloud ? "
         link: https://www.lesechos-events.fr/event/informatique-telecom-reseaux/comment-tirer-profit-des-promesses-du-multicloud/#fndtn-intervenants
