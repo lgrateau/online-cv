@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Laurent GRATEAU
-    tagline: Tech Lead Docker / Kubernetes / Java Backend / Big Data
+    tagline: Leader Technique Docker / Kubernetes / Java Backend / Big Data / Intelligence Artificielle
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -40,9 +40,12 @@ sidebar:
 career-profile:
     title: Profil
     summary: |
-      Après différentes expériences significatives en tant que développeur Java/J2EE, Manageur et Chef de Projet, 
+      Après différentes expériences significatives en tant que développeur Java/J2EE, Manageur et leader technique de projet, 
       je valorise actuellement mon expertise technique dans le developpement et l'architecture de solutions Cloud IBM au 
       sein de la R&D IBM France Lab.
+      Je suis a l'écoute d'opportunités dans les domaines du BigData / Cloud (Docker/Kubernetes) / Intelligence Artificielle afin de valoriser mon expertise technique
+      dans de nouveaux secteurs d'activités.
+
 education:
     - degree: Ingénieur Informatique
       university: EPITA
@@ -50,40 +53,42 @@ education:
       details: 
    
 experiences:
-    - role: Architecte / Leader Technique docker / Kubernetes - IA Symbolique
+    - role: Architecte / Leader Technique Docker / Kubernetes - IA Symbolique
       time: 2017 - Present
       company: IBM, Paris FranceLab
       details: |
-        Au sein d'IBM France Lab, j'occupe les fonctions d'architecte senior / Tech Lead et developpeur en charge 
-        de développer et promouvoir la technologie docker / Kubernetes ainsi 
-        que les technologies cloud pour le produit IBM Websphere Operational Decision Management.
+        Au sein d'IBM France Lab, j'occupe les fonctions d'architecte expérimenté / leader technique et developpeur en charge 
+        de promouvoir la technologie Docker / Kubernetes ainsi que les technologies Cloud pour le produit 
+        IBM Websphere Operational Decision Management.
           - Expertise Docker / Kubernetes
           - Gestion technique d'une équipe de 10 Personnes dans un contexte international 
-          - Formation des équipes de deveoppement aux architectures Microservices - Docker/K8S
+          - Formation des équipes de développement aux architectures Microservices - Docker/K8S
           - Architecture et migration d'offres vers une architecture Microservice sur Docker / Kubernetes
           - Responsable de la communauté OpenSource du produit.
         
         Compétences: Docker / Kubernetes, OpenShift / Azure AKS / Amazon EKS, Standard : OpenID, Helm Charts / Openshift Operator
-    - role: Architecte / Developpeur experimenté  - BigData - IA Symbolique
+    - role: Architecte / Développeur experimenté  - BigData - IA Symbolique
       time: 2016 - 2017 (6 Mois)
       company: IBM, Paris FranceLab
       details: |
-        Architecture et développement d'un solution permettant de faire fonctionner un moteur de regle métier dans une architecture BigData.
+        Architecture et développement d'une solution permettant de faire fonctionner un moteur de règle métier (BRMS) dans une 
+        architecture BigData.
+          - Ecriture d'un prototype.
           - Formation aux technologies BigData (2 mois)
-          - Ecriture d'un prototype. Kafka / Spark / NoSQL (HDFS / Hive)
-          - Developpement et mise en place de la solution chez des clients.
+          - Développement et contribution OpenSource pour la mise en place de la solution chez des clients.
 
         Compétences: Spark Streaming - SQL / Kafka / Java, Python 3 / Jupyter Notebook, Hive / HDFS 
-    - role: Architecte / Developpeur experimenté - Cloud Saas - IA Symbolique
+    - role: Architecte / Développeur experimenté - Cloud Saas - IA Symbolique
       time: 2015 - 2016
       company: IBM, Paris FranceLab
       details: |
-        Architecte fonctionel et developpment d'une solution Saas IBM ODM On cloud et Pasas Business Rules for Bluemix. Au sein de l'équipe R&D 
-        IBM Websphere Operational Decision Management, je suis en charge de l'architecture et du développement
+        Architecte fonctionel et développment d'une solution Saas IBM ODM On cloud et Paas Business Rules for Bluemix. 
+        Au sein de l'équipe R&D IBM Websphere Operational Decision Management, en charge de l'architecture et du développement
         du produit Cloud Saas ODM on cloud.
-          - Definition de l'architecture cloud et developpement de la solution.
           - Ecriture de prototypes.
-          - Coordination des developpements. (Tech Lead 15 personnes - Equipe en Chine/USA/UK) 
+          - Definition de l'architecture cloud et développement de la solution.
+          - Coordination des développements à l'international. (Gestion de 15 personnes - Equipe en Chine/USA/UK) 
+
         Compétences: Softayer : VM - DNS - Routeurs, Docker / Swarm / Kubernetes, DB2, CloudFoundry, Java / J2EE, MongoDB, HTML5 / Bootstrap 4.0 / JQuery / AngularJS
     - role: Leader Technique R&D / Architecte J2EE - .Net - IA Symbolique
       time: 2010 - 2014
@@ -94,7 +99,7 @@ experiences:
            - Architecte fonctionnel
 
         Compétences: Java / J2EE (Tomcat / WebSphere Liberty / Weblogic / JBoss), Database : Postgreql - Oracle - DB2  - MySQL, Maven 
-    - role: Chef de projet and manageur R&D / Architect J2EE - .Net - IA Symbolique
+    - role: Chef de projet et manageur R&D / Architecte J2EE - .Net - IA Symbolique
       time: 2009 - 2014
       company: IBM, Paris FranceLab
       details: |
@@ -104,12 +109,12 @@ experiences:
 
         Compétences: Java / J2EE (Tomcat / WebSphere Liberty / Weblogic / JBoss), Database : Postgreql - Oracle - DB2  - MySQL, .Net WCF, Maven 
 
-    - role: Developpeur / Architecte Java - J2EE Backend Ilog JRules - Outils
+    - role: Développeur / Architecte Java - J2EE Backend Ilog JRules - Outils
       time: 1998 - 2009
       company: Ilog, Gentilly - Sophia Antipolis
       details: |
-        Developpement et architecture du module Web Service inclue dans le roduit IBM ILOG Websphere BRMS module.
-        Developpement d'outils internes. 
+        Développement et architecture du module Web Service embarqué dans le produit ILOG JRules.
+        Développement d'outils internes. 
 
         Compétences: Java / J2EE (Tomcat / WebSphere Liberty / Weblogic / JBoss), Database : Postgreql - Oracle - DB2  - MySQL
   
@@ -125,11 +130,11 @@ projects:
 
       - title: Serverless and Microservice generation (Projet de Recherche)
         link: "https://github.com/ODMDev/decision-microservice"
-        tagline: "Projeet de recherche pour de la generation automatique de microservice."
+        tagline: "Projet de recherche pour de la génération automatique de microservice."
 
       - title: Decisions on Spark github
         link: "https://github.com/ODMDev/decisions-on-spark"
-        tagline: "Integration d'un moteur de Regles métiers dans une architecture Big Data Spark"
+        tagline: "Integration d'un moteur de Règles métiers dans une architecture Big Data Spark"
 
       - title: ODM on Kubernetes
         link: "https://github.com/ODMDev/odm-docker-kubernetes"
@@ -138,17 +143,17 @@ projects:
 publications:
     title: Publications
     intro: |
-      De part mon expertise technique sur differentes technologies, j'ai été invité à participer à de multiples conferences 
-      chez des clients IBM ainsi qu'a des conférences publiques. Un brevet mondial lié aux WebService est listé.
+      De part mon expertise technique sur differentes technologies, j'ai été invité à participer à de multiples conférences 
+      chez des clients IBM ainsi qu'à des conférences publiques. Un brevet mondial lié aux WebService est listé ci dessous.
     papers:
 
       - title: "Brevet - Managing rule sets as web services"
         link: "http://www.patentbuddy.com/Patent/20130138704;jsessionid=7FE8AAB25D2F025F6CFE098F68047C03#sthash.RGhpL0Ke.dpuf"
         authors: Grateau 
-        conference: 
+
 
       - title: "Move to Cloud"
-        link: "https://twitter.com/hashtag/DevSummit?src=hashtag_click"
+        link: "https://twitter.com/Sebl32/status/1199682492669865986"
         authors: Laurent Grateau
         conference: Carrefour DevSummit
 
