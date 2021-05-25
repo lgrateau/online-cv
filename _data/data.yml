@@ -50,7 +50,7 @@ education:
       details: 
    
 experiences:
-    - role: Architect / Tech Lead docker / Kubernetes - IA Symbolique
+    - role: Architecte / Leader Technique docker / Kubernetes - IA Symbolique
       time: 2017 - Present
       company: IBM, Paris FranceLab
       details: |
@@ -62,12 +62,9 @@ experiences:
           - Formation des équipes de deveoppement aux architectures Microservices - Docker/K8S
           - Architecture et migration d'offres vers une architecture Microservice sur Docker / Kubernetes
           - Responsable de la communauté OpenSource du produit.
-        Compétences:
-          - Docker / Kubernetes
-          - OpenShift / Azure AKS / Amazon EKS
-          - Standard : OpenID
-          - Outils: Helm Charts / Openshift Operator
-    - role: Architect / Senior Developer - BigData - IA Symbolique
+        
+        Compétences: Docker / Kubernetes, OpenShift / Azure AKS / Amazon EKS, Standard : OpenID, Helm Charts / Openshift Operator
+    - role: Architecte / Developpeur experimenté  - BigData - IA Symbolique
       time: 2016 - 2017 (6 Mois)
       company: IBM, Paris FranceLab
       details: |
@@ -75,39 +72,47 @@ experiences:
           - Formation aux technologies BigData (2 mois)
           - Ecriture d'un prototype. Kafka / Spark / NoSQL (HDFS / Hive)
           - Developpement et mise en place de la solution chez des clients.
-        Compétences:
-          - Spark Streaming - SQL / Kafka / Java
-          - Python 3 / Jupyter Notebook
-          - Hive / HDFS 
-    - role: Architect / Senior Developer - Cloud Saas - IA Symbolique
+
+        Compétences: Spark Streaming - SQL / Kafka / Java, Python 3 / Jupyter Notebook, Hive / HDFS 
+    - role: Architecte / Developpeur experimenté - Cloud Saas - IA Symbolique
       time: 2015 - 2016
       company: IBM, Paris FranceLab
       details: |
         Architecte fonctionel et developpment d'une solution Saas IBM ODM On cloud et Pasas Business Rules for Bluemix. Au sein de l'équipe R&D 
         IBM Websphere Operational Decision Management, je suis en charge de l'architecture et du développement
         du produit Cloud Saas ODM on cloud.
-          - Definition de l'architecture cloud. (DNS/Machine/Docker...)
+          - Definition de l'architecture cloud et developpement de la solution.
           - Ecriture de prototypes.
-          - Coordination des developpements. (15 personnes - Equipe en Chine/USA/UK) 
-          - Aide au developpement de la solution.
-        Compétences:
-          - Softayer : VM , DNS, Routeur
-          - Docker / Swarm / Kubernetes
-          - DB2
-          - IBM Bluemix platforme : CloudFoundry
-          - Java / J2EE 
-          - MongoDB
-          - HTML5 / Bootstrap 4.0 / JQuery / AngularJS
-    - role: Project Manager R&D / Architect J2EE - .Net - IA Symbolique
+          - Coordination des developpements. (Tech Lead 15 personnes - Equipe en Chine/USA/UK) 
+        Compétences: Softayer : VM - DNS - Routeurs, Docker / Swarm / Kubernetes, DB2, CloudFoundry, Java / J2EE, MongoDB, HTML5 / Bootstrap 4.0 / JQuery / AngularJS
+    - role: Leader Technique R&D / Architecte J2EE - .Net - IA Symbolique
       time: 2010 - 2014
       company: IBM, Paris FranceLab
       details: |
         Responsable de l'architecture du Backend et Runtime du produit BRMS - JRules. 
-        Compétences:
-          - Management d'une équipe de 12 Personnes
-          - Java / J2EE (Tomcat / WebSphere Liberty / Weblogic / JBoss)
-          - Database : Postgreql - Oracle - DB2  - MySQL
-          - Maven 
+           - Management d'une équipe de 12 Personnes
+           - Architecte fonctionnel
+
+        Compétences: Java / J2EE (Tomcat / WebSphere Liberty / Weblogic / JBoss), Database : Postgreql - Oracle - DB2  - MySQL, Maven 
+    - role: Chef de projet and manageur R&D / Architect J2EE - .Net - IA Symbolique
+      time: 2009 - 2014
+      company: IBM, Paris FranceLab
+      details: |
+        Responsable de l'architecture du Backend et Runtime du produit BRMS - JRules. 
+           - Management d'une équipe de 12 Personnes
+           - Architecte fonctionnel
+
+        Compétences: Java / J2EE (Tomcat / WebSphere Liberty / Weblogic / JBoss), Database : Postgreql - Oracle - DB2  - MySQL, .Net WCF, Maven 
+
+    - role: Developpeur / Architecte Java - J2EE Backend Ilog JRules - Outils
+      time: 1998 - 2009
+      company: Ilog, Gentilly - Sophia Antipolis
+      details: |
+        Developpement et architecture du module Web Service inclue dans le roduit IBM ILOG Websphere BRMS module.
+        Developpement d'outils internes. 
+
+        Compétences: Java / J2EE (Tomcat / WebSphere Liberty / Weblogic / JBoss), Database : Postgreql - Oracle - DB2  - MySQL
+  
 
 projects:
     title: OpenSource et contributions publiques
