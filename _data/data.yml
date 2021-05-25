@@ -67,7 +67,6 @@ experiences:
           - OpenShift / Azure AKS / Amazon EKS
           - Standard : OpenID
           - Outils: Helm Charts / Openshift Operator
-
     - role: Architect / Senior Developer - BigData - IA Symbolique
       time: 2016 - 2017 (6 Mois)
       company: IBM, Paris FranceLab
@@ -81,7 +80,6 @@ experiences:
           - Kafka 
           - Python 3 / Jupyter Notebook
           - Hive / HDFS 
-
     - role: Architect / Senior Developer - Cloud Saas - IA Symbolique
       time: 2015 - 2016
       company: IBM, Paris FranceLab
@@ -93,7 +91,6 @@ experiences:
           - Ecriture de prototypes.
           - Coordination des developpements. (15 personnes - Equipe en Chine/USA/UK) 
           - Aide au developpement de la solution.
-
         Compétences:
           - Softayer : VM , DNS, Routeur
           - Docker / Swarm / Kubernetes
@@ -102,7 +99,6 @@ experiences:
           - Java / J2EE 
           - MongoDB
           - HTML5 / Bootstrap 4.0 / JQuery / AngularJS
-
     - role: Project Manager R&D / Architect J2EE - .Net - IA Symbolique
       time: 2010 - 2014
       company: IBM, Paris FranceLab
@@ -113,8 +109,6 @@ experiences:
           - Java / J2EE (Tomcat / WebSphere Liberty / Weblogic / JBoss)
           - Database : Postgreql - Oracle - DB2  - MySQL
           - Maven 
-
-          
 
 projects:
     title: OpenSource et contributions publiques
@@ -130,7 +124,7 @@ projects:
         tagline: "Projeet de recherche pour de la generation automatique de microservice."
 
       - title: Decisions on Spark github
-/         link: "https://github.com/ODMDev/decisions-on-spark"
+        link: "https://github.com/ODMDev/decisions-on-spark"
         tagline: "Integration d'un moteur de Regles métiers dans une architecture Big Data Spark"
 
       - title: ODM on Kubernetes
