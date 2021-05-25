@@ -12,7 +12,25 @@ chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't wa
 # Tracker
 analytics: UA-83979019-1
 
-
+assets:
+  digest: true
+  compress:
+    css:  true
+    js:   uglifier
+  autoprefixer:
+    browsers:
+      - "> 1%"
+      - "last 3 versions"
+      - "IE > 9"
+  prefix: "/assets"
+  sources:
+    - _assets/
+    - _assets/js
+    - _assets/css
+    - _assets/javascript
+    - _assets/stylesheets
+    - _assets/img
+    - _assets/fonts
 
 # Sass/SCSS
 sass:
