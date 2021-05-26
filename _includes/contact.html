@@ -27,7 +27,7 @@
 
     {% if sidebar.pdf %}
     <li class="pdf"><i class="fas fa-file-pdf"></i>
-      <a href="http://0.0.0.0:4000/online-cv/assets/{{ sidebar.pdf }}" target="_blank">{{ sidebar.pdf }}</a>
+      <a href="http://{{ sidebar.website }}/assets/{{ sidebar.pdf }}" target="_blank">{{ sidebar.pdf }}</a>
     </li>
     {% endif %}
 
